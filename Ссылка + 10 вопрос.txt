@@ -1,0 +1,4 @@
+https://www.surveymonkey.com/survey-taken/?sm=sfSnBR8GMJu2qkcjS5aNWrsWJQdnPV6TnoH_2F0_2FXfmwUl8vGEwbCy_2FYNNpRVWqiTnV81a8YJSRH3gL5ZF7qrxFSPkNskdqDqv8GjEIJJUG5E_3D
+03.08.2017 17:00
+
+[x ** 3 for x in mass if x % 3 == 0 and x % 4 == 0]
